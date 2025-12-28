@@ -84,22 +84,22 @@
   <tr>
     <td align="center">
       <strong>Planning (Logic)</strong><br><br>
-      <img src="Assets-Project-2/basic-version-media/Web-Scraper-Planning.jpg" alt="Basic Flowchart" width="100%">
+      <img src="Assets-Project-2/Basic-Version-Media/Web-Scraper-Planning.jpg" alt="Basic Flowchart" width="100%">
     </td>
     <td align="center">
       <strong>Planning (Logic)</strong><br><br>
-      <img src="Assets-Project-2/advanced-version-media/Web-Scraper-Planning.jpg" alt="Advanced Flowchart" width="100%">
+      <img src="Assets-Project-2/Advanced-Version-Media/Web-Scraper-Planning.jpg" alt="Advanced Flowchart" width="100%">
     </td>
   </tr>
 
   <tr>
     <td align="center" valign="top">
       <strong>Execution (Main Result)</strong><br><br>
-      <img src="Assets-Project-2/basic-version-media/ScreenShot-1.png" alt="Basic Output" width="100%">
+      <img src="Assets-Project-2/Basic-Version-Media/ScreenShot-1.png" alt="Basic Output" width="100%">
     </td>
     <td align="center" valign="top">
       <strong>Execution (Main Result)</strong><br><br>
-      <img src="Assets-Project-2/advanced-version-media/ScreenShot-1.png" alt="Advanced Output" width="100%">
+      <img src="Assets-Project-2/Advanced-Version-Media/ScreenShot-1.png" alt="Advanced Output" width="100%">
     </td>
   </tr>
 </table>
@@ -112,7 +112,7 @@
   <br>
   
   <h3>Basic Version - Extra Shots</h3>
-  <img src="Assets-Project-2/basic-version-media/ScreenShot-2.png" alt="Basic Shot 2" width="60%">
+  <img src="Assets-Project-2/Basic-Version-Media/ScreenShot-2.png" alt="Basic Shot 2" width="60%">
   
   <br><br><hr><br>
   
@@ -120,21 +120,21 @@
   <table align="center" width="100%">
     <tr>
       <td align="center" valign="middle" width="50%">
-        <img src="Assets-Project-2/advanced-version-media/ScreenShot-2.png" alt="Advanced Shot 2" width="85%">
+        <img src="Assets-Project-2/Advanced-Version-Media/ScreenShot-2.png" alt="Advanced Shot 2" width="85%">
       </td>
       <td align="center" valign="middle" width="50%">
-        <img src="Assets-Project-2/advanced-version-media/ScreenShot-3.png" alt="Advanced Shot 3" width="85%">
+        <img src="Assets-Project-2/Advanced-Version-Media/ScreenShot-3.png" alt="Advanced Shot 3" width="85%">
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="Assets-Project-2/advanced-version-media/ScreenShot-4.png" alt="Advanced Shot 4" width="60%">
+  <img src="Assets-Project-2/Advanced-Version-Media/ScreenShot-4.png" alt="Advanced Shot 4" width="60%">
   
   <br><br>
   
-  <img src="Assets-Project-2/advanced-version-media/ScreenShot-5.png" alt="Advanced Shot 5" width="60%">
+  <img src="Assets-Project-2/Advanced-Version-Media/ScreenShot-5.png" alt="Advanced Shot 5" width="60%">
   
 </details>
 </div>
@@ -146,7 +146,7 @@
   <p><i>Watch The Script In Action: Automating The Browser & Exporting Data To CSV.</i></p>
   
   <a href="https://drive.google.com/file/d/1h2j3XYgXURayk947LfDwH2dzuQk95lSo/view?usp=drive_link" target="_blank">
-    <img src="Assets-Project-2/live-demo-video/video-thumb.png" alt="Watch Video" width="60%" style="border: 4px solid #f2004a; border-radius: 10px;">
+    <img src="Assets-Project-2/Live-Demo-Video/video-thumb.png" alt="Watch Video" width="60%" style="border: 4px solid #f2004a; border-radius: 10px;">
     <br>
     <em>Click To Watch Video ▷</em>
   </a>
